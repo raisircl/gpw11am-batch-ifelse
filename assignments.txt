@@ -1,0 +1,28 @@
+Q1. enter working hours of a worker and calculate daily wage as per following 
+    crtiteria:
+    Working Hours   wage
+    8               250/-
+    OverTime
+    >8 upto 10      50/-hr 
+    >10 upto 12     75/- hr
+    >12 upto 14     100/- hr
+    otherwise : invalid working hour 
+
+----------------------------
+    input wh: 11
+
+  Kanhiya  650/-
+  Priyanshi 337.50
+  Komal : 825
+
+Q2. Income Tax Retrun
+slab            Tax
+0-12 lac        0
+>12 upto 16     5%
+>16 upto 20     10%
+>20 upto 24     15%
+>24             20%
+
+input income of a person output Tax
+
+--------------------------
