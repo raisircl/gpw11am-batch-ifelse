@@ -1,6 +1,6 @@
-'''Decision Control Instruction: As we know a problem can not be 
-solve without decision so to take decision in python 
-we use if else statement.
+'''Decision Control Instruction: As we know a A program is a solution of 
+a and a problem can not be solve without decision so to take 
+decision in python we use if else statement.
 syntax: 
 if condition:
     statement1
@@ -8,6 +8,7 @@ if condition:
 else:
     statement3
     statement4
+Note: else always optional
 '''
 mrp=float(input("Enter mrp of Book:"))
 dis=0
